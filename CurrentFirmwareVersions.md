@@ -1,7 +1,5 @@
 This file should be updated each and every time anyone updates firmware.
 
-
-
 Current Firmware/Image Version:
 	RoboRIO:2021_v3.0
 	SparkMax Brushless:Version 1.5.2
