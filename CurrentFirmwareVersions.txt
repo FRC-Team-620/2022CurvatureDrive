@@ -4,4 +4,3 @@ Current Firmware/Image Version:
 	RoboRIO:2021_v3.0
 	SparkMax Brushless:Version 1.5.2
   	Radio:Always uses latest firmware
-  	Mini NavX2:Version 4.0.433
